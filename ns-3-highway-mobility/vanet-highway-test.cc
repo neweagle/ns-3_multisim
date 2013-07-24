@@ -35,7 +35,6 @@
 #include "ns3/mobility-module.h"
 #include "ns3/wifi-module.h"
 #include "ns3/random-variable.h"
-#include "math.h"
 #include "Highway.h"
 #include "VehicleGenerator.h"
 #include "tinyxml.h"

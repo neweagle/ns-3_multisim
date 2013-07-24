@@ -20,7 +20,7 @@
  */
 
 #include "Model.h"
-#include <math.h>
+#include <cmath>
 
 namespace ns3 {
 
