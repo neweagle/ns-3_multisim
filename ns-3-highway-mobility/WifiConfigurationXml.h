@@ -38,12 +38,12 @@ private:
             wifiHelper.SetStandard(WIFI_PHY_STANDARD_80211a);
         } else if ("WIFI_PHY_STANDARD_80211b" == m_wifiStandard) {
             wifiHelper.SetStandard(WIFI_PHY_STANDARD_80211b);
-        } else if ("WIFI_PHY_STANDARD_80211_10Mhz" == m_wifiStandard) {
-            wifiHelper.SetStandard(WIFI_PHY_STANDARD_80211_10Mhz);
-        } else if ("WIFI_PHY_STANDARD_80211_10Mhz" == m_wifiStandard) {
-            wifiHelper.SetStandard(WIFI_PHY_STANDARD_80211_10Mhz);
-        } else if ("WIFI_PHY_STANDARD_80211_5Mhz" == m_wifiStandard) {
-            wifiHelper.SetStandard(WIFI_PHY_STANDARD_80211_5Mhz);
+        } else if ("WIFI_PHY_STANDARD_80211_10MHZ" == m_wifiStandard) {
+            wifiHelper.SetStandard(WIFI_PHY_STANDARD_80211_10MHZ);
+        } else if ("WIFI_PHY_STANDARD_80211_10MHZ" == m_wifiStandard) {
+            wifiHelper.SetStandard(WIFI_PHY_STANDARD_80211_10MHZ);
+        } else if ("WIFI_PHY_STANDARD_80211_5MHZ" == m_wifiStandard) {
+            wifiHelper.SetStandard(WIFI_PHY_STANDARD_80211_5MHZ);
         } else if ("WIFI_PHY_STANDARD_holland" == m_wifiStandard) {
             wifiHelper.SetStandard(WIFI_PHY_STANDARD_holland);
         } else if ("WIFI_PHY_STANDARD_80211p_CCH" == m_wifiStandard) {

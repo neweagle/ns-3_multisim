@@ -705,6 +705,7 @@ def build(bld):
 
     # process subfolders from here
     bld.recurse('src')
+    bld.recurse('ns-3-highway-mobility') #need to move from to when try to merge main ns-3 tree
 
     # If modules have been enabled, then set lists of enabled modules
     # and enabled module test libraries.
